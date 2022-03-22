@@ -5,6 +5,8 @@ public class Gebaeude
     
     protected int besucher;
     
+    protected String gebeudeart;
+    
     public Gebaeude( double pHoehe, int pBesucher )
     {
         hoehe = pHoehe;
